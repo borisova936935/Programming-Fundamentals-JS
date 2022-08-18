@@ -46,7 +46,7 @@ heartDelivery([
     "Jump 2",
     "Love!"
 ]);
-console.log("...<<<===>>>...");
+
 heartDelivery([
     "2@4@2",
     "Jump 2",

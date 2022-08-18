@@ -34,7 +34,7 @@ shootForTheWin([
     "1",
     "End"]);
 
-console.log("...<<<===>>>...");
+
 
 shootForTheWin([
     "30 30 12 60 54 66",

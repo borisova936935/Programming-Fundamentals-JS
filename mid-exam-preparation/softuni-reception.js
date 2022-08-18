@@ -27,4 +27,3 @@ softuniReception([
     '3', '2', '5', '40'
 ]);
 
-//"Time needed: ${time}h."

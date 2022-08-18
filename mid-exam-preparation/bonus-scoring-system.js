@@ -1,4 +1,4 @@
-function bonusScoringSystem(input) {
+function bonusScoringSystem(input) {   //first way
     let studentCount = Number(input.shift());
     let lecturesCount = Number(input.shift());
     let initialBonus = Number(input.shift());
@@ -25,7 +25,7 @@ bonusScoringSystem([
     '12', '19', '24',
     '16', '20']);
 
-console.log("...<<<===>>>...");
+
 
 bonusScoringSystem([
     '10', '30', '14', '8',
@@ -35,7 +35,7 @@ bonusScoringSystem([
 
 //........................................................................
 
-function bonusScoringSystem(input) {
+function bonusScoringSystem(input) {   //second way
     let studentCount = Number(input.shift());
     let lecturesCount = Number(input.shift());
     let initialBonus = Number(input.shift());
@@ -60,7 +60,7 @@ bonusScoringSystem([
     '12', '19', '24',
     '16', '20']);
 
-console.log("...<<<===>>>...");
+
 
 bonusScoringSystem([
     '10', '30', '14', '8',

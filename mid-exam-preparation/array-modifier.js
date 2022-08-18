@@ -37,7 +37,7 @@ arrayModifier([
     'decrease',
     'end'
 ]);
-console.log("...<<<===>>>...");
+
 arrayModifier([
     '1 2 3 4',
     'swap 0 1',
@@ -47,8 +47,3 @@ arrayModifier([
     'decrease',
     'end'
 ]);
-
-
-// "swap {index1} {index2}"
-// "multiply {index1} {index2}"
-// "decrease"
